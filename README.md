@@ -1,5 +1,5 @@
 ## Numerical & Analytical Modeling of Bubble Ascent
-This project simulates the nonlinear ascent of nitrogen bubbles in viscous fluids, accounting for buoyancy, gravity, and drag forces.
+This project simulates the nonlinear ascent of nitrogen bubbles in viscous fluids, accounting for buoyancy, gravity, and drag forces. It was developed as a solution for an open ended problem published in the KöMaL journal.
 
 ### Technical Documentation
 * Requires a **C++14 GNU C++** compiler or newer (developed and tested in Code::Blocks).
